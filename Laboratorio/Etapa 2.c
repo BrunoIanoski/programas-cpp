@@ -41,7 +41,5 @@ int main(){
     int tempo = idade*365;
     printf("Voce ja viveu %d dias.\n", tempo);
 
-    
-
     return 0;
 }
