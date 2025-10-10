@@ -12,8 +12,21 @@ int soma (int vetor[],int n){
     return(resultado);
 }
 
+void test_soma_basico() {
+    int vetor[] = {2, 3, 5};  // Soma = 10
+    int n = 3;
+    int resultado = soma(vetor, n);
+    if (resultado == 10) {
+        printf("✅ Teste soma_basico passou!\n");
+    } else {
+        printf("❌ Teste soma_basico falhou! Esperado 10, obtido %d\n", resultado);
+    }
+}
+
 
 int main(){
+    test_soma_basico();
+    
     int i;
     int n = 3;
     int vetor[n];
