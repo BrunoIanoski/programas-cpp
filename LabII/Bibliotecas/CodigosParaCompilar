@@ -1,5 +1,0 @@
-gcc -c /minhalib.c -I include -o minhalib.o
-
-ar rcs libminhalib.a minhalib.o
-
-gcc /exemplo.c -I include -L. -lminhalib -o exemplo
