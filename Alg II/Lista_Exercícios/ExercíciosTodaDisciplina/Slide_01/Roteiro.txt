@@ -1,0 +1,12 @@
+Bruno Manika Ianoski - Roteiro de fabricação 
+
+1 - Obter a areia
+2 - Refinar e obter o silício
+3 - Transformar em um wafer como base para o chip
+4 - Preparar o wafer (limpar)
+5 - Oxidação para isolar
+6 - Fotolitografia (circuitos)
+7 - Implantação de Íons (dopagem)
+8 - Construção de camadas sobre o wafer
+9 - Testes e corte
+10 - Soldagem

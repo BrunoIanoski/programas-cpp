@@ -1,0 +1,12 @@
+Exercícios 03 - Expressão pré fixada, montar a arvore  e calcular o valor de saída binária.
+
+AND OR 1 1 XOR AND 0 1 OR 0 1
+
+Representação em aninhamento:
+
+( AND ( ( XOR( ( AND(0)(1) ) ( OR(0)(1) ) ) ) (OR(1)(1)) ) )
+OU 
+(AND((XOR((AND(0)(1))(OR(0)(1))))(OR(1)(1))))
+
+Valor de saída binária = 1
+

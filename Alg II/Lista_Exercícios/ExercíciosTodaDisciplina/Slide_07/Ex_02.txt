@@ -1,0 +1,14 @@
+Exerício 02 - Travessia em ordem infixa e montar a expressão.
+
+a + b * c / d - e
+
+a = 2
+b = 5
+c = 8
+d = 2
+e = 1
+
+2 + 5 * 8 / 2 - 1
+
+(a+(b*((c/d)-(e))))
+(2+(5*((8/2)-(1)))) = 17

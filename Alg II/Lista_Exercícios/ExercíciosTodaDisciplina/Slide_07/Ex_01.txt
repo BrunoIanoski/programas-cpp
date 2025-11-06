@@ -1,0 +1,7 @@
+Exercício 01
+
+1. O nível de cada nó -> A(0), B C(1), D E(2), F (3)
+2. A profundidade de cada nó -> A(0), B C(1), D E(2), F (3)
+3. A altura de cada nó -> A(3), B C(2), D E(1), F (0)
+4. A altura da árvore -> 3
+5. O grau do vértice B -> 2
